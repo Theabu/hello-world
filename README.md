@@ -1,3 +1,4 @@
 # hello-world
-repository turorial
-hello world this is the tutorial on how to create repository.
+repository tutorial
+ tutorial on how to create repository.
+Its a hell lot of change
